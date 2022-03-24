@@ -2,11 +2,11 @@
 `Log4Water:EXPANDED` is a logger system that has a few useful functions, and can save to a file.
 
 * [Logger (base class)](#logger)
-    * [Logger.log(text: string): void](#loggerlogtextstringvoid)
-    * [Logger.warn(text: string): void](#loggerwarntextstringvoid)
-    * [Logger.error(text: string): void](#loggererrortextstringvoid)
-    * [Logger.debug(text: string): void](#loggerdebugtextstringvoid)
-    * [Logger.clear(): void](#loggerclearvoid)
+    * [Logger.log(text: string): void](#loggerlogtext-string-void)
+    * [Logger.warn(text: string): void](#loggerwarntext-string-void)
+    * [Logger.error(text: string): void](#loggererrortext-string-void)
+    * [Logger.debug(text: string): void](#loggerdebugtext-string-void)
+    * [Logger.clear(): void](#loggerclear-void)
 
 ## Logger
 
